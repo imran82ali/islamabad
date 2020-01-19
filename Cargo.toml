@@ -1,0 +1,14 @@
+[package]
+name = "islamabad"
+version = "0.1.0"
+authors = ["imran82ali <code.imranali@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/imran82ali/islamabad"
+homepage = "https://github.com/imran82ali/islamabad"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+description = "Sample Library from PIAIC Batch3 IoT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
